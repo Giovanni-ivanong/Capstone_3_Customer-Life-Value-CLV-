@@ -59,9 +59,5 @@ Dataset berisi informasi seperti:
    `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`  
 2. Jalankan skrip preprocessing, modeling, dan evaluasi yang sudah disediakan.  
 3. Lihat hasil evaluasi model dan visualisasi untuk analisis lebih lanjut.
-4. 
+
 ---
-
-
-
-dan variabel demografis lainnya.
